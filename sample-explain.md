@@ -17,6 +17,9 @@ void loop()
 	int d = s * 1000;
 	delay(d);
 }
+### ตัวโปรแกรมจะเริ่มประกาศ cnt เริ่มต้น 1 ครั้ง
+### วนลูปเพิ่มทีละ 1 ไปเรื่อยๆ
+### มีดีเลย์ 300 ms
 ## EX2
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
@@ -53,6 +56,11 @@ void loop()
 	Serial.println("\n\n");
 	delay(10 * 1000);
 }
+### ตัวโปรแกรมเริ่มด้วยการประกาศตัวเลข cnt
+### ทำการset wifi ให้พร้อม โดยมีดีเลย์ 100 ms
+### วนลูปแสดงข้อความค้นหา wifi
+### หาไม่เจอ แสดงข้อความ( NO NETWORK FOUND )
+### ถ้าเจอก็แสดงให้เราเลือกใช้
 ## EX3
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
@@ -78,6 +86,11 @@ void loop()
 	}
 	delay(500);
 }
+### ตัวโปรแกรมจะเริ่มประกาศตัวเลข cnt
+### set up กำหนดหน้าที่ของสัญญาณ (pinMode) ให้ port 0 เป็น output
+### cnt เป็นเลขคู่ จะแสดงข้อความ ON และเปิด
+### cnt เป็นคี่ แสดงข้อความ off และปิด
+### ดีเลย์ 500 ms
 ## EX4
 #include <ESP8266WiFi.h>
 
@@ -102,6 +115,10 @@ void loop()
 	}
 	delay(100);
 }
+### set port 0 is input and port 2 is output
+### ลูปให้อ่านข้อมูลจาก port 0 แสดงข้อความอ่านได้เท่าไหร่
+### 1 ให้ LOW ไปที่ port 2 ไฟก็จะดับ
+### 0 ให้ HIGH ไปที่ port 2 ไฟก็จะติด
 ## EX5
 #include <ESP8266WiFi.h>
 //#include <WiFiClient.h>
@@ -159,6 +176,13 @@ void setup(void){
 void loop(void){
   server.handleClient();
 }
+### ใส่ชื่อ ssid and password
+### เลือก Server
+### เริ่มรับสัญญาณ ดีเลย์ 500 ms
+### โปรแกรมจะแสดง password ออกมา
+### เชื่อมต่อไม่ได้ จะขึ้นว่า Path Not Found
+### ถ้าได้จะแสดง Hello cnt: (โดยที่ cnt +1 )
+### HTTP Server started
 ## EX6
 #include <ESP8266WiFi.h>
 //#include <WiFiClient.h>
@@ -200,3 +224,7 @@ void setup(void){
 void loop(void){
   server.handleClient();
 }
+### กำหนด ssid and password
+### ตั้ง local ip , geteway , subnet
+### เริ่มต้นการทำงานของโปรแกรม
+### เชื่อมต่อได้จะขึ้น Hello cnt: (โดยที่ cnt +1)
