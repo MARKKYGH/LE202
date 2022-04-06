@@ -24,7 +24,22 @@ ST ย่อมาจาก SRORE หมายถึง การเก็บข
 
 # ตัวอย่างเปรี่ยบเทียบความสัมพันธ์
 
-1. เป็นภาษา c กับ RISC-V rv64gc Clang 14.0.0  ภาษาระดับสูง - ภาษาแอสเซ็มบลี่
+## 1. เป็นภาษา c กับ RISC-V rv64gc Clang 14.0.0  
+ ภาษาระดับสูง - ภาษาแอสเซ็มบลี่
 
  ![43](https://user-images.githubusercontent.com/98943435/162011697-00887352-9771-4c12-96d3-50ce5199c658.jpg)
 
+ ภาษาระดับสูง - ภาษาเครื่อง
+
+![44](https://user-images.githubusercontent.com/98943435/162012050-8a94d70c-e6aa-4b62-bf5e-213ec4a1f4c3.jpg)
+
+## 2. เป็นภาษา c++ กับ RISC-V rv64gc Clang 14.0.0 
+ ภาษาระดับสูง - ภาษาแอสเซ็มบลี่
+
+![45](https://user-images.githubusercontent.com/98943435/162012512-6858cc60-4ed3-4e03-a070-510bb4855fa9.jpg)
+
+ ภาษาระดับสูง - ภาษาเครื่อง
+ 
+ ![46](https://user-images.githubusercontent.com/98943435/162012708-2cdbecff-1fd8-4e19-8ef0-0ddfd62064f2.jpg)
+
+## 3. เป็นภาษา c กับ 
