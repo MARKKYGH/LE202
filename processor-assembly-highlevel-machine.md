@@ -44,7 +44,7 @@ ST ย่อมาจาก SRORE หมายถึง การเก็บข
  ![48](https://user-images.githubusercontent.com/98943435/162013193-8ecbd2a7-94c2-40fc-903d-5051817c4c6a.jpg)
 
 
-## 3. เป็นภาษา c กับ ARM64 7.5
+## 3. เป็นภาษา c กับ ARM64 gcc 7.5
  ภาษาระดับสูง - ภาษาแอสเซ็มบลี่
  
  ![49](https://user-images.githubusercontent.com/98943435/162013541-68a5b01b-fc81-4aa4-a59e-638079b327f6.jpg)
@@ -53,7 +53,7 @@ ST ย่อมาจาก SRORE หมายถึง การเก็บข
  
  ![50](https://user-images.githubusercontent.com/98943435/162013672-631dd22c-4cc3-4698-bd99-ad10659140f8.jpg)
  
-## 4. เป็นภาษา c++ กับ ARM64 7.5
+## 4. เป็นภาษา c++ กับ ARM64 gcc 7.5
  ภาษาระดับสูง - ภาษาแอสเซ็มบลี่
  
 ![51](https://user-images.githubusercontent.com/98943435/162013870-08e31273-0539-48a7-a416-017e2de27891.jpg)ฃ
