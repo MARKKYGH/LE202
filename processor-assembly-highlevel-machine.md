@@ -36,10 +36,32 @@ ST ย่อมาจาก SRORE หมายถึง การเก็บข
 ## 2. เป็นภาษา c++ กับ RISC-V rv64gc Clang 14.0.0 
  ภาษาระดับสูง - ภาษาแอสเซ็มบลี่
 
-![45](https://user-images.githubusercontent.com/98943435/162012512-6858cc60-4ed3-4e03-a070-510bb4855fa9.jpg)
+![47](https://user-images.githubusercontent.com/98943435/162013106-ddef6e70-d78c-4b39-b180-7e214c53ca2d.jpg)
+
 
  ภาษาระดับสูง - ภาษาเครื่อง
  
- ![46](https://user-images.githubusercontent.com/98943435/162012708-2cdbecff-1fd8-4e19-8ef0-0ddfd62064f2.jpg)
+ ![48](https://user-images.githubusercontent.com/98943435/162013193-8ecbd2a7-94c2-40fc-903d-5051817c4c6a.jpg)
 
-## 3. เป็นภาษา c กับ 
+
+## 3. เป็นภาษา c กับ ARM64 7.5
+ ภาษาระดับสูง - ภาษาแอสเซ็มบลี่
+ 
+ ![49](https://user-images.githubusercontent.com/98943435/162013541-68a5b01b-fc81-4aa4-a59e-638079b327f6.jpg)
+ 
+ ภาษาระดับสูง - ภาษาเครื่อง
+ 
+ ![50](https://user-images.githubusercontent.com/98943435/162013672-631dd22c-4cc3-4698-bd99-ad10659140f8.jpg)
+ 
+## 4. เป็นภาษา c++ กับ ARM64 7.5
+ ภาษาระดับสูง - ภาษาแอสเซ็มบลี่
+ 
+![51](https://user-images.githubusercontent.com/98943435/162013870-08e31273-0539-48a7-a416-017e2de27891.jpg)ฃ
+
+ ภาษาระดับสูง - ภาษาเครื่อง
+ 
+ ![52](https://user-images.githubusercontent.com/98943435/162013982-a3c02e1e-eccc-42ff-9271-2e75b820d92f.jpg)
+
+ 
+
+
